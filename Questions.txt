@@ -1,0 +1,22 @@
+Which exception is thrown when java is out of memory?
+a) MemoryError  b) OutOfMemoryError  c) MemoryOutOfBoundsException  d) MemoryFullException
+The self organizing list improves the efficiency of _______
+a) binary search  b) jump search  c) sublist search  d) linear search
+Which of these keywords can be used to prevent Method overriding in Java?
+a) final  b) protected  c) static  d) constant
+Which Set class should be most popular in a multi-threading environment, considering performance constraint?
+a.)HashSet  b.)ConcurrentSkipListSet  c.)LinkedHashSet  d.)CopyOnWriteArraySet
+Symbol tables during compilation of program is efficiently implemented using __________
+a) a singly linked list  b) a doubly linked list  c) a self organizing list  d) an array
+Which of the following is not a segment of memory in java?
+a) Code Segment  b) Register Segment  c) Stack Segment  d) Heap Segment
+Which Map class should be most popular in a multi-threading environment, considering performance constraint?
+a.)Hashtable  b.)CopyOnWriteMap  c.)ConcurrentHashMap  d.)ConcurrentMap
+Which of these cannot be used for a variable name in Java?
+a) identifier & keyword  b) identifier  c) keyword d) none of the mentioned
+Which of these packages contains the exception Stack Overflow in Java?
+a) java.io  b) java.system  c) java.lang   d) java.util
+Which of this method of class String is used to obtain a length of String object?
+a) get()  b) Sizeof()  c) lengthof()  d) length()
+Which one of the following is not an access modifier?
+a) Protected  b) Void  c) Public  d) Private
